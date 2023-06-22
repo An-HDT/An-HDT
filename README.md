@@ -77,8 +77,7 @@
 <table style="width:100%;">
   <tr>
     <td align="center">
-      <img src="https://visitcount.itsvg.in/api?id=An-HDT&icon=2&color=4" alt="Random Dev Quote" width="100%"/>
-      <img src="https://visitcount.itsvg.in" alt="Random Dev Quote" width="100%"/>
+      <img src="https://visitcount.itsvg.in/api?id=An-HDT&icon=2&color=4" alt="Profile Views" width="100%"/>
     </td>
   </tr>
 </table>
