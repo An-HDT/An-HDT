@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thai An</h1>
-## 🌐Socials
+### 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thai.an.754703) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anthai1112) 
 
 # 💻Tech Stack
