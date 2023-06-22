@@ -62,7 +62,15 @@
 </div>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=An-HDT&icon=2&color=4)](https://visitcount.itsvg.in)
