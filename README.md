@@ -37,16 +37,32 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=An-HDT&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=An-HDT&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=An-HDT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+<table style="width:100%;" align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=An-HDT&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Trophies" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=An-HDT&theme=radical&hide_border=false" width="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
 
-/*## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=An-HDT&theme=radical&no-frame=false&no-bg=false&margin-w=4)*/
+## 🏆GitHub Trophies
+<div align="center">
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-trophies.vercel.app/?username=An-HDT&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=An-HDT&icon=2&color=4)](https://visitcount.itsvg.in)
