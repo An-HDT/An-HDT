@@ -41,8 +41,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=An-HDT&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=An-HDT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=An-HDT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+/*## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=An-HDT&theme=radical&no-frame=false&no-bg=false&margin-w=4)*/
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
