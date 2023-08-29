@@ -17,7 +17,8 @@
 </p>
 
 # 💻Tech Stack
-<table style="width:100%;" align="center">
+<div align="center">
+<table style="width:100%;" >
   <thead> 
       <tr>
           <th>Front-End Skills</th>
@@ -54,6 +55,7 @@
       </tr>
   </tbody>
 </table>
+</div>
 
 # 📊GitHub Stats :
 <div align="center">
