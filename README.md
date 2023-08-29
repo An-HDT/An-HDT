@@ -17,8 +17,8 @@
 </p>
 
 # 💻Tech Stack
-<table style="width:100%;">
-  <thead>
+<table style="width:100%;" align="center">
+  <thead> 
       <tr>
           <th>Front-End Skills</th>
           <th>Back-End Skills</th>
