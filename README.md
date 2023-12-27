@@ -2,12 +2,12 @@
 
 ## 🌐Socials
 <p align="center">
-  <a href="https://www.linkedin.com/in/anthai1112" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
   <a href="https://www.facebook.com/thai.an.754703" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
+  <a href="https://www.linkedin.com/in/anthai1112" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
   <a href="https://github.com/An-HDT" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
@@ -60,21 +60,7 @@
 <table style="width:100%;" align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=An-HDT&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Trophies" width="100%"/>
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=An-HDT&theme=radical&hide_border=false" width="100%"/>
-    </td>
-  </tr>
-</table>
-</div>
-
-## 🏆GitHub Trophies
-<div align="center">
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-trophies.vercel.app/?username=An-HDT&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%"/>
     </td>
   </tr>
 </table>
