@@ -90,9 +90,9 @@
             <tr>
                 <td align="center">
                     <img src="https://github-readme-stats.vercel.app/api?username=an-hdt&theme=radical&show_icons=true&locale=en&hide_border=true&bg_color=0d1117"
-                        alt="an-hdt" width="40%" title="GitHub Profile Stats" />
+                        alt="an-hdt" width="40%" height="200px" title="GitHub Profile Stats" />
                     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an-hdt&theme=radical&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117"
-                        alt="an-hdt" width="30%" title="Top Languages" />
+                        alt="an-hdt" width="30%" height="200px" title="Top Languages" />
                 </td>
             </tr>
         </tbody>
@@ -102,7 +102,7 @@
             <tr>
                 <td align="center">
                     <img src="https://github-readme-streak-stats.herokuapp.com/?user=an-hdt&theme=radical&hide_border=true"
-                        width="50%" title="GitHub Streak" />
+                        width="50%" height="200px" title="GitHub Streak" />
                 </td>
             </tr>
         </tbody>
