@@ -97,6 +97,10 @@
                         alt="an-hdt" width="30%" title="Top Languages" />
                 </td>
             </tr>
+        </tbody>
+    </table>
+    <table width="100%" align="center">
+        <tbody>
             <tr>
                 <td align="center">
                     <img src="https://github-readme-streak-stats.herokuapp.com/?user=an-hdt&theme=radical&hide_border=true"
