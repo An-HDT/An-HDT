@@ -4,19 +4,17 @@
 </h1>
 
 # 🌐Connect with me:
-<p align="center">
+<div align="center">
     <a href="mailto:thaian111203@gmail.com" alt="Email" title="Email" >
         <img src="https://img.icons8.com/fluent/48/000000/mail.png" />
     </a>
-    <a href="https://www.facebook.com/thai.an.754703" alt="Facebook" title="Facebook"
-       >
+    <a href="https://www.facebook.com/thai.an.754703" alt="Facebook" title="Facebook">
         <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
     </a>
-    <a href="https://www.linkedin.com/in/anthai1112" alt="LinkedIn" title="LinkedIn"
-       >
+    <a href="https://www.linkedin.com/in/anthai1112" alt="LinkedIn" title="LinkedIn">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
     </a>
-</p>
+</div>
 
 # 💻Tech Stack
 <div align="center">
