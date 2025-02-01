@@ -89,9 +89,9 @@
         <tbody>
             <tr>
                 <td align="center">
-                    <img src="https://github-readme-stats.vercel.app/api?username=an-hdt&theme=radical&show_icons=true&locale=en&hide_border=true&bg_color=0d1117"
+                    <img src="https://github-readme-stats.vercel.app/api?username=An-HDT&theme=radical&show_icons=true&locale=en&hide_border=true&bg_color=0d1117"
                         alt="an-hdt" width="40%" height="200px" title="GitHub Profile Stats" />
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an-hdt&theme=radical&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117"
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=An-HDT&theme=radical&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117"
                         alt="an-hdt" width="30%" height="200px" title="Top Languages" />
                 </td>
             </tr>
@@ -101,7 +101,7 @@
         <tbody>
             <tr>
                 <td align="center">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=an-hdt&theme=radical&hide_border=true" height="200px" title="GitHub Streak" />
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=An-HDT&theme=radical&hide_border=true" height="200px" title="GitHub Streak" />
                 </td>
             </tr>
         </tbody>
