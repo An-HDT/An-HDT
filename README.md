@@ -113,9 +113,4 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%" />
 </div>
 
----
-<div align="center" title="Profile Views">
-    <table >
-        <img src="https://visitcount.itsvg.in/api?id=An-HDT&icon=2&color=4" alt="Profile Views" width="20%" />
-    </table>
-</div>
+
