@@ -18,7 +18,7 @@
 
 # 💻Tech Stack:
 <div align="center">
-    <table style="width:100%;">
+<table style="width:100%;">
         <thead>
             <tr>
                 <th title="Front-End Skills">Front-End Skills</th>
@@ -31,51 +31,51 @@
                 <td>
                     <p align="center">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-                            height="40" alt="html5 logo" title="HTML5" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"
+                            width="40" alt="html5 logo" title="HTML5" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"
                             alt="css3 logo" title="CSS3" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                            height="40" alt="javascript logo" title="JavaScript" />
+                            width="40" alt="javascript logo" title="JavaScript" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-                            height="40" alt="bootstrap logo" title="Bootstrap" />
+                            width="40" alt="bootstrap logo" title="Bootstrap" />
                     </p>
                 </td>
                 <td>
                     <p align="center">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-                            height="40" alt="csharp logo" title="C#" />
+                            width="40" alt="csharp logo" title="C#" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-                            height="40" alt="dotnetcore logo" title=".NET Core" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"
+                            width="40" alt="dotnetcore logo" title=".NET Core" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"
                             alt="java logo" title="Java" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-                            height="40" alt="spring logo" title="Spring" />
+                            width="40" alt="spring logo" title="Spring" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-                            height="40" alt="python logo" title="Python" />
+                            width="40" alt="python logo" title="Python" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-                            height="40" alt="django logo" title="Django" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"
+                            width="40" alt="django logo" title="Django" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"
                             alt="php logo" title="PHP" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
-                            height="40" alt="laravel logo" title="Laravel" />
+                            width="40" alt="laravel logo" title="Laravel" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-                            height="40" alt="mysql logo" title="MySQL" />
+                            width="40" alt="mysql logo" title="MySQL" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-                            height="40" alt="microsoftsqlserver logo" title="Microsoft SQL Server" />
+                            width="40" alt="microsoftsqlserver logo" title="Microsoft SQL Server" />
                     </p>
                 </td>
                 <td>
                     <p align="center">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
-                            height="40" alt="sqlite logo" title="SQLite" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"
+                            width="40" alt="sqlite logo" title="SQLite" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"
                             alt="git logo" title="Git" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-                            height="40" alt="docker logo" title="Docker" />
-                        <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"
+                            width="40" alt="docker logo" title="Docker" />
+                        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="postman logo"
                             title="Postman" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-                            height="40" alt="figma logo" title="Figma" />
+                            width="40" alt="figma logo" title="Figma" />
                     </p>
                 </td>
             </tr>
